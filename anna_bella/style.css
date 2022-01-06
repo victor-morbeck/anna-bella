@@ -4,13 +4,14 @@ body{
 }
 #main-container{
     width: 900px;
-    border: 1px solid red;
+
 }
 
 #menu-bar{
     background: #c5c5b2;
-    padding:18px;
+    padding: 20px;
     margin-bottom: 0;
+    margin-top: 0px;
 
 }
 
@@ -24,4 +25,18 @@ a{
 #content{
     background: #e8e8d9;
     padding-top: 10px;
+}
+
+.centralizar{
+    text-align:center;
+}
+
+h1{
+    color:#828271;
+    font-size: 1.2em;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
+
 }
